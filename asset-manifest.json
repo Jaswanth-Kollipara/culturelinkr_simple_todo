@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/culturelinkr_simple_todo/static/css/main.000bc971.css",
+    "main.js": "/culturelinkr_simple_todo/static/js/main.269b6e60.js",
+    "index.html": "/culturelinkr_simple_todo/index.html",
+    "main.000bc971.css.map": "/culturelinkr_simple_todo/static/css/main.000bc971.css.map",
+    "main.269b6e60.js.map": "/culturelinkr_simple_todo/static/js/main.269b6e60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.000bc971.css",
+    "static/js/main.269b6e60.js"
+  ]
+}
